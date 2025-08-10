@@ -24,7 +24,7 @@ Elle offre un suivi des progrès, des quiz, des flashcards et utilise la banque 
 
 ### 📂 Structure du projet
 ```
-ham-learn/
+src/
 ├── public/
 │   ├── amat_basic_quest_delim.txt   # Banque officielle des questions
 ├── src/
@@ -80,7 +80,7 @@ It offers progress tracking, quizzes, flashcards, and uses the official question
 
 ### 📂 Project structure
 ```
-ham-learn/
+src/
 ├── public/
 │   ├── amat_basic_quest_delim.txt   # Official question bank
 ├── src/
@@ -98,7 +98,7 @@ ham-learn/
 1. **Clone the project**
 ```bash
 git clone https://github.com/<YOUR-USERNAME>/ham-learn.git
-cd ham-learn
+cd ham-learn/hamlearn
 ```
 2. **Install dependencies**
 ```bash
